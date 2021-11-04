@@ -1,0 +1,34 @@
+[
+  {
+    "_id": "b-05",
+    "_parentId": "a-05",
+    "_type": "block",
+    "_classes": "slider__container",
+    "title": "b-05",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_trackingId": 20,
+    "_onScreen": {
+      "_isEnabled": true,
+      "_classes": "fade-in-bottom",
+      "_percentInviewVertical": 50
+    }
+  },
+  {
+    "_id": "b-10",
+    "_parentId": "a-05",
+    "_type": "block",
+    "_classes": "slider__container",
+    "title": "b-05",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_trackingId": 21,
+    "_onScreen": {
+      "_isEnabled": true,
+      "_classes": "fade-in-bottom",
+      "_percentInviewVertical": 50
+    }
+  }
+]

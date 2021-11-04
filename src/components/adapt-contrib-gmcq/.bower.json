@@ -1,0 +1,30 @@
+{
+  "name": "adapt-contrib-gmcq",
+  "version": "6.0.2",
+  "framework": ">=5.14.0",
+  "homepage": "https://github.com/adaptlearning/adapt-contrib-gmcq",
+  "bugs": "https://github.com/adaptlearning/adapt-contrib-gmcq/issues",
+  "component": "gmcq",
+  "targetAttribute": "_gmcq",
+  "displayName": "Graphical Multiple Choice Question",
+  "description": "A multiple choice question component, with images",
+  "main": "/js/adapt-contrib-gmcq.js",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-component"
+  ],
+  "pluginDependencies": {
+    "adapt-contrib-mcq": ">=4"
+  },
+  "license": "GPL-3.0",
+  "_release": "6.0.2",
+  "_resolution": {
+    "type": "version",
+    "tag": "v6.0.2",
+    "commit": "607f5ab0018bbd5673563699d5cc1c826ecee248"
+  },
+  "_source": "git://github.com/adaptlearning/adapt-contrib-gmcq.git",
+  "_target": "6.0.2",
+  "_originalSource": "adapt-contrib-gmcq",
+  "_direct": true
+}
