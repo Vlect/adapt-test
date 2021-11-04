@@ -1,0 +1,83 @@
+[
+  {
+    "_id": "c-05",
+    "_parentId": "b-05",
+    "_type": "component",
+    "_component": "narrative",
+    "_classes": "",
+    "_layout": "full",
+    "_comment": "setCompletionOn = inview | allItems",
+    "_setCompletionOn": "allItems",
+    "_hasNavigationInTextArea": false,
+    "title": "Narrative",
+    "displayTitle": "Narrative",
+    "body": "The <b>Narrative</b> component lets you scroll through a series of images each with some accompanying text.<br><br>This component is always spanned.",
+    "instruction": "Select the next and back arrows to find out more.",
+    "mobileInstruction": "Select the plus icon followed by the next arrow to find out more.",
+    "_items": [
+      {
+        "title": "Narrative item 1",
+        "body": "Narratives are particularly good for showing dialogue between two or more characters, with each step of the conversation being accompanied by an image. This photo story approach can be used to provide context for the learning to follow, to illustrate real-world application of the learning or to show the impact on people when the learning hasn’t been applied correctly.",
+        "_graphic": {
+          "src": "course/en/images/narrative.png",
+          "alt": ""
+        },
+        "strapline": "Narrative item 1"
+      },
+      {
+        "title": "Narrative item 2",
+        "body": "It can also be used to present case studies, where the different displays are used to set the scene, show the key events and then the outcome.",
+        "_graphic": {
+          "src": "course/en/images/narrative.png",
+          "alt": ""
+        },
+        "strapline": "Narrative item 2"
+      },
+      {
+        "title": "Narrative item 3",
+        "body": "This component can also be useful when you want to illustrate the constituent steps that make up a larger process.",
+        "_graphic": {
+          "src": "course/en/images/narrative.png",
+          "alt": ""
+        },
+        "strapline": "Narrative item 3"
+      }
+    ]
+  },
+  {
+    "_id": "c-10",
+    "_parentId": "b-10",
+    "_type": "component",
+    "_component": "narrative",
+    "_classes": "",
+    "_layout": "full",
+    "_comment": "setCompletionOn = inview | allItems",
+    "_setCompletionOn": "allItems",
+    "_hasNavigationInTextArea": false,
+    "title": "Narrative",
+    "displayTitle": "Narrative",
+    "body": "The <b>Narrative</b> component lets you scroll through a series of images each with some accompanying text.<br><br>This component is always spanned.",
+    "instruction": "Select the next and back arrows to find out more.",
+    "mobileInstruction": "Select the plus icon followed by the next arrow to find out more.",
+    "_items": [
+      {
+        "title": "Narrative item 1",
+        "body": "Narratives are particularly good for showing dialogue between two or more characters, with each step of the conversation being accompanied by an image. This photo story approach can be used to provide context for the learning to follow, to illustrate real-world application of the learning or to show the impact on people when the learning hasn’t been applied correctly.",
+        "_graphic": {
+          "src": "course/en/images/narrative.png",
+          "alt": ""
+        },
+        "strapline": "Narrative item 1"
+      },
+      {
+        "title": "Narrative item 2",
+        "body": "It can also be used to present case studies, where the different displays are used to set the scene, show the key events and then the outcome.",
+        "_graphic": {
+          "src": "course/en/images/narrative.png",
+          "alt": ""
+        },
+        "strapline": "Narrative item 2"
+      }
+    ]
+  }
+]
